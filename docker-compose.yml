@@ -9,7 +9,7 @@ services:
     environment:
       - TYPE=BepInExFull
       - "MODS=
-        https://gcdn.thunderstore.io/live/repository/packages/Grantapher-ValheimPlus_Grantapher_Temporary-9.12.0.zip
+        https://gcdn.thunderstore.io/live/repository/packages/Grantapher-ValheimPlus_Grantapher_Temporary-9.13.0.zip
         "
       - PORT=2456
       - NAME="********"

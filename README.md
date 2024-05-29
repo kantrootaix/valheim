@@ -70,3 +70,9 @@ docker compose down && docker compose up -d
 # Used for restart of container due to low profile of virtual machine
 0 4 */4 * * docker compose down && docker compose up -d
 ```
+
+## Updates :
+
+```mbround18/valheim:3.0.0``` by mbround18 is the "Ashlands" update of Valheim server
+
+```Grantapher-ValheimPlus_Grantapher_Temporary-9.13.0``` is the "Ashlands" update of Valheim plus mod by Grantapher
